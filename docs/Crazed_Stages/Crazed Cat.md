@@ -12,7 +12,7 @@
 -   **Anti-Traitless Ubers:** Snow Miku 2021, Shadow Gao, Gothic Mitama, etc.  
 -   **Generic Backliner Ubers:** B.C.S Lionheart, Catman, Rock Revengers, etc.  
 
-### Lineups and Strategies
+### Lineup and Strategy
   
 ##### Bahamut Stacking Strat
 ![[Lineup_Crazed_Cat.png | 450]]
