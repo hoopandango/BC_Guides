@@ -10,7 +10,7 @@
 - **Kasa Jizo** - For the ranged stack strat, acts the same as most ranged attackers you're bringing, but better.
 - **Anti-Wave Ubers** - Examples include Shadow Akira, Epicfest exclusive Ubers, Hell Sentinel Emma, Anubis the Unblemished, etc. As they can ignore the waves from Crazed Gross (Cat Machine and Hell Sentinel Emma blocking the waves) they can deal damage while also being unharmed.
 
-### Lineup and Strategies
+### Lineups and Strategies
 ##### Ranged Stack Strat
 ![[Lineup_Crazed_Gross.png | 450]]
 

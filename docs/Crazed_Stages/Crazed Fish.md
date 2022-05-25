@@ -10,7 +10,7 @@
 - **Kasa Jizo** - Can act similarly to Paris Cat and Drama Cats.
 - **Anti-Traitless Ubers:** Dark’tanyan, Shadow Gao, Gothic Mitama, etc. 
 
-### Lineup and Strategies
+### Lineups and Strategies
 
  ![[Lineup_Crazed_Fish.png | 450]]
  

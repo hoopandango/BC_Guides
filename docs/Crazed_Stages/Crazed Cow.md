@@ -10,8 +10,8 @@
 - **Generic Backliners** - Most ubers with better stats than C. Bahamut can serve as an upgrade, improving consistency. Examples include Catman, Nurse, Vars, etc.
 - **Anti-Traitless Ubers** - Epicfest Exclusives such as Shadow Gao or D’arktanyan perform excellently in this stage due to their anti-Traitless abilities or just raw stats.
 
-### Lineup and Strategy
-
+### Lineups and Strategies
+##### Paris Spam Strat
 ![[Lineup_Crazed_Cow.png | 450]]
 
 +CPU, Rich Cat (optional)

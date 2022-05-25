@@ -18,6 +18,7 @@
 
 ### Lineups and Strategies
 ![[Lineup_Crazed_Bird.png | 450]]
+
 +Sniper
 
 [Video](https://www.youtube.com/watch?v=KQBxgzmbZrc) - Courtesy of kuruluu

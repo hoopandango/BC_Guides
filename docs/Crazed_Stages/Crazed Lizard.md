@@ -10,7 +10,9 @@
 - **Kasa Jizo** - A good spammable AoE attacker here for the Ottas.
 - **Rushers** - Similar to Tankers, they can chip at Crazed Lizards, but sacrifice HP for more Damage. Examples include Yukimura and D’arktanyan.
 
-### Lineup and Strategies
+### Lineups and Strategies
+##### Slow Burn CWhale Strat
+
 ![[Lineup_Crazed_Lizard.png|450]]
 
 [Video](https://www.youtube.com/watch?v=eBzPoY50Fa8) - Courtesy of Gardangle

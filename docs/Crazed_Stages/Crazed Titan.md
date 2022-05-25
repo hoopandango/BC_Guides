@@ -13,8 +13,9 @@
 - **Wave Blocker Ubers:** CMK3, Eva-00, Tokyo Miku 2020, etc.
 - **Anti-Traitless Ubers:** Snow Miku 2021, Valiant D’arktanyan, Shadow Gao, etc.
  
-### Lineup and Strategies
+### Lineups and Strategies
 ![[Lineup_Crazed_Titan.png|450]]
+
 +CPU (optional), Sniper
 
 [Video](https://www.youtube.com/watch?v=LggIJHDblE4) - Courtesy of Kuruluu
