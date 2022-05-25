@@ -1,5 +1,3 @@
-## **Crazed Cat**
-
 ### Must-Have Units
 - **Crazed Bahamut** - Works well as a ranged attacker for chipping at the boss and dealing with the Le’boins and Teacher Bears. Its uniquely long attack cycle also allows it to be stacked to great effect here, unlike other backliner alternatives.
 - **A Fourth Cheap Meatshield:** Awa-dori Cat, Catburger, Coin Cat, Li’l Cat, etc.
@@ -17,7 +15,8 @@
 ### Lineups and Strategies
   
 ##### Bahamut Stacking Strat
-![[lineup_crazed_cat.png | 450]]
+![[Lineup_Crazed_Cat.png | 450]]
+
 +Sniper, CPU 
 
 [Video](https://www.youtube.com/watch?v=LcYnv1arX28) - Courtesy of Oats
