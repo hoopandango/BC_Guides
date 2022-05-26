@@ -1,5 +1,39 @@
 site_name: Battle Cats Guides
 
+nav:
+  - Preface: ./Preface.md
+  - Crazed Stages:
+    - Crazed Cat: ./Crazed_Stages/Crazed_Cat.md
+    - Crazed Tank: ./Crazed_Stages/Crazed_Tank.md
+    - Crazed Axe: ./Crazed_Stages/Crazed_Axe.md
+    - Crazed Gross: ./Crazed_Stages/Crazed_Gross.md
+    - Crazed Cow: ./Crazed_Stages/Crazed_Cow.md
+    - Crazed Bird: ./Crazed_Stages/Crazed_Bird.md
+    - Crazed Fish: ./Crazed_Stages/Crazed_Fish.md
+    - Crazed Lizard: ./Crazed_Stages/Crazed_Lizard.md
+    - Crazed Titan: ./Crazed_Stages/Crazed_Titan.md
+  - Li'l Stages:
+    - Li'l Mohawk: ./Li'l_Stages/Li'l_Mohawk.md
+    - Li'l Eraser: ./Li'l_Stages/Li'l_Eraser.md
+    - Li'l Dark: ./Li'l_Stages/Li'l_Dark.md
+    - Li'l Macho Legs: ./Li'l_Stages/Li'l_Macho_Legs.md
+    - Li'l Lion: ./Li'l_Stages/Li'l_Lion.md
+    - Li'l Flying: ./Li'l_Stages/Li'l_Flying.md
+    - Li'l Island: ./Li'l_Stages/Li'l_Island.md
+    - Li'l King Dragon: ./Li'l_Stages/Li'l_King_Dragon.md
+    - Li'l Jamiera: ./Li'l_Stages/Li'l_Jamiera.md
+  - Manic Stages:
+    - Manic Mohawk: ./Manic_Stages/Manic_Mohawk.md
+    - Manic Eraser: ./Manic_Stages/Manic_Eraser.md
+    - Manic Dark: ./Manic_Stages/Manic_Dark.md
+    - Manic Macho Legs: ./Manic_Stages/Manic_Macho_Legs.md
+    - Manic Lion: ./Manic_Stages/Manic_Lion.md
+    - Manic Flying: ./Manic_Stages/Manic_Flying.md
+    - Manic Island: ./Manic_Stages/Manic_Island.md
+    - Manic King Dragon: ./Manic_Stages/Manic_King_Dragon.md
+    - Manic Jamiera: ./Manic_Stages/Manic_Jamiera.md
+  - Credits: ./Credits.md
+
 theme:
     name: 'material'
     palette:
