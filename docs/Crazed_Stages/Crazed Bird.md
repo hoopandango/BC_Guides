@@ -10,13 +10,16 @@
 - **Sniper the Recruit** - Able to outrange CBird, as well as having a 100% chance to KB, allowing you to gain back ground from Crazed Bird.
 - **Other Anti-Red Units** - Units such as Swordsman Cat, Bath Cat, Sushi Cat, can all work against the Bores, making them much easier to deal with.
  
-## Useful Uber Rare Units
+### Useful Uber Rare Units
 - **Backliner Ubers** - Ubers with decent range can be a good replacement for Bahamut during Bore waves, allowing you to keep more ground. A good example is Thundia.
 - **Rusher Ubers** - Ubers such as D’arktanyan or Yukimura who have high speeds can be used to rush down Crazed Bird, dealing a good amount of damage.
 - **Tanker Ubers** - High-HP Ubers such as Hades will be able to tank Crazed Bird and Rain Ds, as well as dealing good damage.
 - **Super Galaxy Cosmo** - Acts similarly to Sniper the Recruit, outranging the boss, as well as having decent chip damage, and a 100% chance to KB Crazed Bird. Very valuable to have in this stage.
 
 ### Lineups and Strategies
+
+##### Endurance Strat
+
 ![[Lineup_Crazed_Bird.png | 450]]
 
 +Sniper
